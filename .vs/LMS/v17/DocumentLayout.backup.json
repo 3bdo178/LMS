@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Migrations\\20261005121612_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Migrations\\20261005121612_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\implementation\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\implementation\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\abstraction\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\abstraction\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\unit o\u0027 work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\unit o\u0027 work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\unit o\u0027 work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\unit o\u0027 work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\abstraction\\iborrowingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\abstraction\\iborrowingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\implementation\\borrowingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\implementation\\borrowingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\abstraction\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\abstraction\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\implementation\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\implementation\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\abstraction\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\abstraction\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\implementation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\implementation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\migrations\\20261005113202_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\migrations\\20261005113202_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\lms\\lms\\repo\\abstraction\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EA4C40-F76E-4ED9-91D4-B26ACA47A424}|LMS\\LMS.csproj|solutionrelative:lms\\repo\\abstraction\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261005121612_v2.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Migrations\\20261005121612_v2.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20261005121612_v2.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Migrations\\20261005121612_v2.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20261005121612_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:16:12.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "LMS\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "LMS\\Dtos\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:14:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Dtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "LMS\\Dtos\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Dtos\\CreateBookDto.cs",
+              "RelativeToolTip": "LMS\\Dtos\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:02:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:56:11.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\BookRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Implementation\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\BookRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Implementation\\BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Abstraction\\IBookRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IBookRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Abstraction\\IBookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Book.cs",
+              "RelativeToolTip": "LMS\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:11:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Profiles\\BookProfile.cs",
+              "RelativeDocumentMoniker": "LMS\\Profiles\\BookProfile.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Profiles\\BookProfile.cs",
+              "RelativeToolTip": "LMS\\Profiles\\BookProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:03:03.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMS\\Program.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Program.cs",
+              "RelativeToolTip": "LMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:30:50.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LMS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LMS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:59:22.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBorrowingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IBorrowingRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Abstraction\\IBorrowingRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IBorrowingRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Abstraction\\IBorrowingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\BorrowingRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Implementation\\BorrowingRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\BorrowingRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Implementation\\BorrowingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Abstraction\\IMemberRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IMemberRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Abstraction\\IMemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Implementation\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\MemberRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Implementation\\MemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Abstraction\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Implementation\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Implementation\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LMS\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "RelativeToolTip": "LMS\\Unit o\u0027 Work\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LMS\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "RelativeToolTip": "LMS\\Unit o\u0027 Work\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:54.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LMS",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS\\LMS.csproj",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS\\LMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T11:55:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20261005113202_init.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Migrations\\20261005113202_init.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\20261005113202_init.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Migrations\\20261005113202_init.cs",
+              "RelativeToolTip": "LMS\\Migrations\\20261005113202_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:32:02.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\appsettings.json",
+              "RelativeDocumentMoniker": "LMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\appsettings.json",
+              "RelativeToolTip": "LMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T11:28:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Borrowing.cs",
+              "RelativeToolTip": "LMS\\Models\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:16:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Member.cs",
+              "RelativeToolTip": "LMS\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:15:16.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Models\\Category.cs",
+              "RelativeToolTip": "LMS\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:10:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:05:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "LMS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\LMS\\LMS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "RelativeToolTip": "LMS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:04:32.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
