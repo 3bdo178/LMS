@@ -8,6 +8,7 @@ namespace LMS.Unit_o__Work
         IBorrowingRepo Borrowings { get; }
         ICategoryRepo Categories { get; }
         IMemberRepo Members { get; }
-        public int Save();
+        IAuthRepo Auth { get; }
+        public Task<int> Save();
     }
 }

@@ -14,7 +14,7 @@ namespace LMS.Repo.Implementation
 
         public Book GetMostExpensive()
         {
-            return Context.Books.OrderByDescending(b => b.Price).FirstOrDefault();
+            return Context.Books.OrderByDescending(b => b.Price).Take(1).FirstOrDefault();
         }
 
         public List<Book> SearchByName(string name)

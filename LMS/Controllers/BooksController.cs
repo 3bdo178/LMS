@@ -4,6 +4,7 @@ using LMS.Models;
 using LMS.Unit_o__Work;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace LMS.Controllers
 {
@@ -19,7 +20,7 @@ namespace LMS.Controllers
             _unitofwork = unitOfWork;
         }
         [HttpPost]
-        public IActionResult CreateBook([FromBody] CreateBookDto dto)
+        public async Task<IActionResult> CreateBook([FromBody] CreateBookDto dto)
         {
             if(dto == null || !ModelState.IsValid)
             {
@@ -27,7 +28,7 @@ namespace LMS.Controllers
             }
             var res = _mapper.Map<Book>(dto);
             _unitofwork.Books.Create(res);
-            _unitofwork.Save();
+           await _unitofwork.Save();
             return Created();
         }
         [HttpGet("Search/{KeyWord}")]
@@ -44,8 +45,8 @@ namespace LMS.Controllers
         public IActionResult GetMostExpensiveBook()
         {
             var book = _unitofwork.Books.GetMostExpensive();
-            
-            return Ok(_mapper.Map<BookDto>(book));
+            var dto = _mapper.Map<BookDto>(book);
+            return Ok(dto);
         }
     }
 }

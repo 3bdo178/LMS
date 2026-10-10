@@ -12,19 +12,23 @@ namespace LMS.Unit_o__Work
         public ICategoryRepo Categories { get; }
 
         public IMemberRepo Members { get; }
+
+        public IAuthRepo Auth { get; }
+
         private readonly AppDbContext Context;
-        public UnitOfWork(AppDbContext context, IBookRepo books, IBorrowingRepo borrowings, ICategoryRepo categories, IMemberRepo members)
+        public UnitOfWork(AppDbContext context, IBookRepo books, IBorrowingRepo borrowings, ICategoryRepo categories, IMemberRepo members, IAuthRepo auth)
         {
             Context = context;
             Books = books;
             Borrowings = borrowings;
             Categories = categories;
             Members = members;
+            Auth = auth;
         }
 
-        public int Save()
+        public Task<int> Save()
         {
-            return Context.SaveChanges();
+            return Context.SaveChangesAsync();
         }
 
     }
